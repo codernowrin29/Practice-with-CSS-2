@@ -1,0 +1,55 @@
+p {
+    color: rgb(95, 18, 76);
+    background-color: aquamarine;
+    height: 30px;
+    width: 50%;
+    font-size: 115%;
+}
+
+h1 {
+    color: rgb(25, 23, 146);
+}
+
+h3 {
+    color: blueviolet;
+}
+
+#russia {
+    color: burlywood;
+    background-color: brown;
+}
+
+#china {
+    color: aquamarine;
+    background-color: black;
+}
+
+.one {
+    color: brown;
+    margin: 0 auto;
+    width: 50%;
+    padding: 40px;
+    text-align: justify;
+    font-size: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+
+.two {
+    background-color: antiquewhite;
+    border: 2px solid greenyellow;
+    border-radius: 30px;
+    margin: 20px;
+}
+
+.color-cc {
+    color: blue;
+}
+
+li {
+    display: inline;
+}
+
+h5 {
+    display: block;
+}
